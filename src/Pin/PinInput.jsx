@@ -64,6 +64,7 @@ function PinInput({ noOfBoxes = 5, length = 1, onChange }) {
           handleChange={(v) => handleChange(v, i)}
           handleBackSpace={(v) => handleBackSpace(v, i)}
           length={length}
+          values={values}
         />
       ))}
     </div>
