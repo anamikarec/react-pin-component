@@ -1,10 +1,10 @@
 import React from "react";
 
 const defaultStyle = {
-  width: "2rem",
+  width: "1rem",
   height: "2rem",
   borderRadius: "0.25rem",
-  padding: "0.5rem 0.25rem",
+  padding: "0.5rem 1rem",
   fontSize: "20px",
   border: "1px solid blue"
 };
